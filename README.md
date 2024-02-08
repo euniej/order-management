@@ -1,9 +1,9 @@
 # Order Management and Invoicing System for a Store
 
-##[Introduction]
+## [Introduction]
 This Web Application is designed to provide customers with a seamless shopping experience while facilitating efficient order data management. This application uses MongoDB as the backend database to allow users to browse available products, make purchases, and view order details/history.
 
-[Core Functionality]
+### [Core Functionality]
 
 1. HTML/CSS: Web Form
    - The web form collects essential information required to process customer orders, including name, shipping address, contact information, and selected products.
